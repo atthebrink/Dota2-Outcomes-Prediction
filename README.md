@@ -6,7 +6,7 @@ This is the final assignment of Neural Network Theory and Applications.
 But I also made this project out of my interests in Dota2.
 
 ## Introduction of the project
-Detailed description is included in the [full technical report](https://github.com/atthebrink/Dota2-Outcomes-Prediction/blob/master/Using%20LSTM%20and%20AAE%20to%20Predict%20Dota2%20Outcomes%20by%20analyzing%20the%20Draft.pdf).
+Detailed description is included in the [technical report](https://github.com/atthebrink/Dota2-Outcomes-Prediction/blob/master/Using%20LSTM%20and%20AAE%20to%20Predict%20Dota2%20Outcomes%20by%20analyzing%20the%20Draft.pdf).
 
 This project is to predict the outcomes of a Dota2 game based on drafts. 
 
